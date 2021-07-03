@@ -1,5 +1,5 @@
 
-### Algorithms and Data Structures - Project 3 - Problems vs. Algorithms
+### Data Structures & Algorithms - Project 3 - Problems vs. Algorithms
 
 This project is a requisite for [Udacity](https://www.udacity.com)'s [Data Structures & Algorithms Nanodegree Program](https://www.udacity.com/course/data-structures-and-algorithms-nanodegree--nd256).
 
